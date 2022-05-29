@@ -1,0 +1,15 @@
+[submodule "Assignment"]
+	path = Assignment
+	url = https://github.com/Digital-Image-Processing-IIITH/assignment_0-Gunjanph
+[submodule "Assignment_0"]
+	path = Assignment_0
+	url = https://github.com/Digital-Image-Processing-IIITH/assignment_0-Gunjanph
+[submodule "Assignment_1"]
+	path = Assignment_1
+	url = https://github.com/Digital-Image-Processing-IIITH/assignment_1-Gunjanph
+[submodule "Assignment_2"]
+	path = Assignment_2
+	url = https://github.com/Digital-Image-Processing-IIITH/assignment_2-Gunjanph
+[submodule "Assignment_3"]
+	path = Assignment_3
+	url = https://github.com/Digital-Image-Processing-IIITH/assignment_3-Gunjanph
